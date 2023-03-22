@@ -1,6 +1,6 @@
 # projet-Web-EPFC
 Projet web réalisé par 
 Hani Boubker
-Jamila 
-Rayan
+Jamila Hammani
+Rayan Benaissa
 Maria
