@@ -3233,3 +3233,19 @@ ol {
 .footer .copyright .copyright-text a:hover {
   color: #F20487;
 }
+
+
+/* pages mentions légales */
+
+.mentions h5 {
+  color:  #F20487;
+}
+.mentions h6 {
+  color:  #3813c2;
+  font-weight: bold;
+}
+
+.mentions ul li {
+  list-style: circle;
+  margin: 5px 0;
+}
