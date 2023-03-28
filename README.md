@@ -7,6 +7,5 @@ Younes Bakhtaoui
 
 ----Répartition----
 
-- Rayan : Pages Catégories -> Pop
-                           -> Rap
+- Rayan : Catégories -> Pop et Rap
 
