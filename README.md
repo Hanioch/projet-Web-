@@ -7,5 +7,6 @@ Younes Bakhtaoui
 
 ----Répartition----
 
-- Rayan : Catégories -> Pop et Rap
+- Rayan : Catégories -> Pop - Rap
 - Jamila : Accueil - Mentions légales - Contact
+- Younes : Sch - Angele - Akon
