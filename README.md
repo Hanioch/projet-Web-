@@ -10,3 +10,4 @@ Younes Bakhtaoui
 - Rayan : Catégories -> Pop - Rap
 - Jamila : Accueil - Mentions légales - Contact
 - Younes : Sch - Angele - Akon
+- Hani : Tarifs - Programation - Soolking
